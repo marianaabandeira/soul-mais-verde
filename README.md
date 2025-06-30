@@ -33,13 +33,11 @@ A coleta seletiva no Brasil enfrenta grandes desafios: mesmo quando os cidadãos
 
 ## 🔗 Links úteis
 
-- 📄 [Apresentação no Canva](https://www.canva.com/design/DAGqvTPUxDs/Hi8PsFAfrUoVxfuFMvndlA/edit?utm_content=DAGqvTPUxDs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🎤 [Pitch sobre o trabalho (Google Drive)](https://drive.google.com/file/d/1yaIOEy356mjMIKhmtyLeH0tOo_l1ng8f/view?usp=sharing)
 
 - 🎨 [Design no Figma](https://www.figma.com/design/BPPWTWxFUEYMmyxJuqnrig/soul?node-id=0-1&m=dev&t=o1nEupxinrleP5ZB-1)
 
 - 🧪 [Protótipo Navegável](https://www.figma.com/proto/BPPWTWxFUEYMmyxJuqnrig/soul?node-id=137-4&t=tk32jntwi1tzS6fD-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A18)
-
-- 🎤 [Pitch sobre o trabalho (Google Drive)](https://drive.google.com/file/d/1yaIOEy356mjMIKhmtyLeH0tOo_l1ng8f/view?usp=sharing)
 
 
 ## 👥 Sobre o projeto
